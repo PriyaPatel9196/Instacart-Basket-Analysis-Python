@@ -17,11 +17,17 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
   ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
   ● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
+  
     1) What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+    
     2) Are there differences in ordering habits based on a customer’s loyalty status?
+    
     3) Are there differences in ordering habits based on a customer’s region?
+    
     4) Is there a connection between age and family status in terms of ordering habits?
+    
     5) What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+    
     6) What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think         of.
 
 ## Data
@@ -59,5 +65,17 @@ The data was analysed using Python and the following libraries:
 The project files are divided between the following folders:
 
   1) Project Management: Project Brief and Data Dictionary.
-  2) Data: Separated into two subfolders Original Data and Prepared Data. 
+    
+  2) Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and te data frames after thay have been cleaned and prepared for analysis respectively.
+
+  3) Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+  4) Analysis: The Visulizations folder contains the visulizations used for developing and explaining insights.
+
+  5) Sent to Client: The final report presented in Excel.
+
+## Resources
+
+Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
+     
 
