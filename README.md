@@ -66,7 +66,7 @@ The project files are divided between the following folders:
 
   1) Project Management: Project Brief and Data Dictionary.
     
-  2) Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and te data frames after thay have been cleaned and prepared for analysis respectively. (data 
+  2) Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and te data frames after thay have been cleaned and prepared for analysis respectively. (Data 
      files not uploaded to GitHub due to size.)
 
   3) Scripts: The Jupyter notebooks containing the coding for the analysis.
