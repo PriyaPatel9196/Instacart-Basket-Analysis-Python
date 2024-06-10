@@ -2,11 +2,11 @@
 
 I used Python to wrangle and analyze several datasets for Instacart. I then created a report that communicates my analysis process and my results and recommendations to key business questions from Instacart.
 
-### Objective 
+## Objective 
 
 Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
-### Key Questions
+## Key Questions
 
   ● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
@@ -24,7 +24,7 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
     5) What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
     6) What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think         of.
 
-### Data
+## Data
 
   ● orders
 
@@ -38,7 +38,7 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 #### The customer dataset and column 'prices' were added to the original dataset for learning purpose of the Career Foundary course.
 
-### Tools
+## Tools
 
 The data was analysed using Python and the following libraries:
 
@@ -54,7 +54,7 @@ The data was analysed using Python and the following libraries:
 
   ● Warnings: for ignore the warnings
 
-### Folders
+## Folders
 
 The project files are divided between the following folders:
 
