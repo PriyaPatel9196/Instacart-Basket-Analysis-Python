@@ -27,9 +27,13 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 ### Data
 
 ● orders
+
 ● orders_products_pripor
+
 ● products
+
 ● customers
+
 ● departments
 
 #### The customer dataset and column 'prices' were added to the original dataset for learning purpose of the Career Foundary course.
@@ -38,10 +42,15 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 The data was analysed using Python and the following libraries:
 ● Pandas : for data analysis
+
 ● Numpy: for mathematical equations
+
 ● Seaborn: for data visulizations
+
 ● Matplotlib: for data visulizations
+
 ● Scipy: for data equations
+
 ● Warnings: for ignore the warnings
 
 ### Folders
