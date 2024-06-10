@@ -17,7 +17,6 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
   ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
   ● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
-  
     1) What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
     
     2) Are there differences in ordering habits based on a customer’s loyalty status?
